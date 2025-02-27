@@ -1,12 +1,14 @@
-# ruby_debug_log.vim
+# ruby\_debug\_log.vim
 
 This is Vim syntax highlighting for ruby debug log files. It's meant to be used by people
 working on the Ruby language, using the debug log facility.
 
+![highlighted text](./debug.rdl.png 'Vim highlighting')
+
 ## Installation
 
 Save your ruby debug log with the extension '.rdl' and if this plugin is installed correctly
-in vim/nvim then it work.
+in vim/nvim then it should work.
 
 ## Customizing the Colors
 
